@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+C:\Users\Administrator\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
