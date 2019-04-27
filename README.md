@@ -1,8 +1,8 @@
-    A example c# api for https://www.blockchain.com/
-    Request page:https://blockchain.info/multiaddr?active=$address|$address
-    Api reference:https://www.blockchain.com/api/blockchain_api
+A example c# api for https://www.blockchain.com/<br>
+Request page:https://blockchain.info/multiaddr?active=$address|$address<br>
+Api reference:https://www.blockchain.com/api/blockchain_api<br>
 
-'''c#
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -61,7 +61,7 @@ namespace BlockChain
 }
 
 
-'''
+```
 
 
     My homepage : https://www.cmd5.org
